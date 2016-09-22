@@ -6,4 +6,4 @@ Given a text file in ABC format, plays it back to the user using a song synthesi
 How to use
 ==========
 
-Run main and click on song to play. Tip: Portal "Wnat you gone" is the most awesome song.
+Run main and click on song to play. Tip: Portal "Wnat you gone" is the most awesome song
